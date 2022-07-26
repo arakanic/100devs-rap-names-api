@@ -1,0 +1,26 @@
+{
+  "name": "api-project-one",
+  "version": "1.0.0",
+  "description": "example api project with #100devs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arakanic/100devs-rap-names-api.git"
+  },
+  "keywords": [
+    "express",
+    "node"
+  ],
+  "author": "leon noel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arakanic/100devs-rap-names-api/issues"
+  },
+  "homepage": "https://github.com/arakanic/100devs-rap-names-api#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
